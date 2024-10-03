@@ -1,6 +1,6 @@
 import React from 'react'
 import Component from 'hyper/component'
-import spotify from 'spotify-node-applescript'
+import spotify from 'spotify-node-dbus'
 import SvgIcon from '../utils/svg-icon'
 
 class PluginIcon extends Component {
